@@ -84,8 +84,8 @@ MonoBehaviour:
     y: 550
     width: 5
     height: 70
-    borderLeft: 1
-    borderRight: 1
+    borderLeft: 2
+    borderRight: 2
     borderTop: 0
     borderBottom: 0
     paddingLeft: 0
