@@ -42,7 +42,7 @@ MonoBehaviour:
   mSprites:
   - name: 10000-talentos
     x: 0
-    y: 451
+    y: 450
     width: 232
     height: 196
     borderLeft: 0
@@ -55,7 +55,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: 2500-talentos
     x: 0
-    y: 254
+    y: 252
     width: 232
     height: 196
     borderLeft: 0
@@ -68,7 +68,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: 500-talentos
     x: 0
-    y: 57
+    y: 54
     width: 232
     height: 196
     borderLeft: 0
@@ -80,8 +80,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: bgn-toolbarbottom
-    x: 233
-    y: 552
+    x: 234
+    y: 550
     width: 5
     height: 70
     borderLeft: 2
@@ -93,8 +93,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: Bg-Talentos
-    x: 963
-    y: 494
+    x: 942
+    y: 516
     width: 64
     height: 64
     borderLeft: 4
@@ -106,8 +106,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: bookmark
-    x: 994
-    y: 681
+    x: 998
+    y: 652
     width: 50
     height: 50
     borderLeft: 0
@@ -119,8 +119,8 @@ MonoBehaviour:
     paddingTop: 5
     paddingBottom: 5
   - name: bookmark-add
-    x: 994
-    y: 630
+    x: 998
+    y: 600
     width: 50
     height: 50
     borderLeft: 0
@@ -132,8 +132,8 @@ MonoBehaviour:
     paddingTop: 5
     paddingBottom: 5
   - name: boton-coleccion
-    x: 656
-    y: 251
+    x: 658
+    y: 170
     width: 360
     height: 72
     borderLeft: 16
@@ -145,8 +145,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: boton-inicio-amarillo-sombra
-    x: 255
-    y: 9
+    x: 658
+    y: 244
     width: 363
     height: 72
     borderLeft: 5
@@ -158,8 +158,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: boton-inicio-azul-sombra
-    x: 656
-    y: 397
+    x: 658
+    y: 318
     width: 363
     height: 72
     borderLeft: 0
@@ -171,8 +171,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: boton-inicio-verde-sombra
-    x: 656
-    y: 324
+    x: 256
+    y: 3
     width: 363
     height: 72
     borderLeft: 0
@@ -184,8 +184,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: boton-talentos
-    x: 1168
-    y: 865
+    x: 1347
+    y: 980
     width: 181
     height: 44
     borderLeft: 0
@@ -197,8 +197,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: box-coleccionplaca
-    x: 255
-    y: 349
+    x: 256
+    y: 347
     width: 302
     height: 192
     borderLeft: 0
@@ -210,8 +210,8 @@ MonoBehaviour:
     paddingTop: 3
     paddingBottom: 7
   - name: box-talentos
-    x: 689
-    y: 4
+    x: 621
+    y: 43
     width: 32
     height: 32
     borderLeft: 16
@@ -224,7 +224,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: btn-adquirir
     x: 0
-    y: 9
+    y: 5
     width: 226
     height: 47
     borderLeft: 5
@@ -236,8 +236,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-amarillo
-    x: 1049
-    y: 724
+    x: 1649
+    y: 980
     width: 116
     height: 44
     borderLeft: 20
@@ -249,8 +249,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-ayuda
-    x: 558
-    y: 390
+    x: 560
+    y: 387
     width: 67
     height: 62
     borderLeft: 0
@@ -262,8 +262,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-ayudatexto
-    x: 656
-    y: 188
+    x: 658
+    y: 106
     width: 362
     height: 62
     borderLeft: 0
@@ -275,8 +275,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-estrella
-    x: 1049
-    y: 769
+    x: 1530
+    y: 977
     width: 117
     height: 47
     borderLeft: 0
@@ -288,8 +288,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-flat-round
-    x: 619
-    y: 12
+    x: 621
+    y: 9
     width: 32
     height: 32
     borderLeft: 8
@@ -301,8 +301,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-flat-round-azul
-    x: 656
-    y: 470
+    x: 658
+    y: 392
     width: 306
     height: 88
     borderLeft: 0
@@ -314,8 +314,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-menu
-    x: 512
-    y: 555
+    x: 514
+    y: 553
     width: 117
     height: 114
     borderLeft: 0
@@ -327,8 +327,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-moneda-talentos
-    x: 608
-    y: 351
+    x: 611
+    y: 347
     width: 39
     height: 38
     borderLeft: 0
@@ -340,8 +340,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-normal
-    x: 868
-    y: 561
+    x: 829
+    y: 583
     width: 32
     height: 32
     borderLeft: 8
@@ -353,8 +353,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-pregunta-left
-    x: 558
-    y: 453
+    x: 560
+    y: 451
     width: 86
     height: 88
     borderLeft: 8
@@ -366,10 +366,10 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-puntos
-    x: 656
-    y: 910
-    width: 703
-    height: 114
+    x: 1052
+    y: 977
+    width: 293
+    height: 47
     borderLeft: 0
     borderRight: 0
     borderTop: 0
@@ -379,8 +379,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-talentos
-    x: 656
-    y: 37
+    x: 1172
+    y: 923
     width: 200
     height: 52
     borderLeft: 0
@@ -405,8 +405,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: cartelAntiguoTestamento
-    x: 656
-    y: 90
+    x: 658
+    y: 6
     width: 302
     height: 48
     borderLeft: 0
@@ -418,8 +418,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: cartel-Nuevo-Testamento
-    x: 656
-    y: 139
+    x: 658
+    y: 56
     width: 302
     height: 48
     borderLeft: 0
@@ -431,8 +431,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: close
-    x: 959
-    y: 76
+    x: 962
+    y: 42
     width: 62
     height: 62
     borderLeft: 0
@@ -444,8 +444,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 1
   - name: coin
-    x: 233
-    y: 623
+    x: 234
+    y: 622
     width: 18
     height: 24
     borderLeft: 0
@@ -457,8 +457,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: coinstack_256
-    x: 255
-    y: 542
+    x: 256
+    y: 541
     width: 256
     height: 256
     borderLeft: 0
@@ -470,8 +470,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: dashed-btn
-    x: 1017
-    y: 293
+    x: 965
+    y: 585
     width: 30
     height: 30
     borderLeft: 8
@@ -483,8 +483,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 1
   - name: fb
-    x: 512
-    y: 670
+    x: 514
+    y: 669
     width: 128
     height: 128
     borderLeft: 0
@@ -496,7 +496,7 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: FondoNubes
-    x: 255
+    x: 256
     y: 799
     width: 400
     height: 225
@@ -509,8 +509,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: font
-    x: 1110
-    y: 673
+    x: 1560
+    y: 925
     width: 50
     height: 50
     borderLeft: 0
@@ -522,8 +522,8 @@ MonoBehaviour:
     paddingTop: 5
     paddingBottom: 5
   - name: ico-btn-compartir
-    x: 558
-    y: 357
+    x: 560
+    y: 353
     width: 49
     height: 32
     borderLeft: 0
@@ -535,8 +535,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: ico-btn-volver
-    x: 227
-    y: 32
+    x: 228
+    y: 28
     width: 22
     height: 24
     borderLeft: 0
@@ -548,8 +548,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: lineSpacingLess
-    x: 826
-    y: 559
+    x: 1008
+    y: 500
     width: 41
     height: 34
     borderLeft: 0
@@ -561,8 +561,8 @@ MonoBehaviour:
     paddingTop: 13
     paddingBottom: 13
   - name: lineSpacingMore
-    x: 959
-    y: 143
+    x: 1008
+    y: 536
     width: 41
     height: 44
     borderLeft: 0
@@ -574,8 +574,8 @@ MonoBehaviour:
     paddingTop: 8
     paddingBottom: 8
   - name: logo-abs
-    x: 1753
-    y: 926
+    x: 658
+    y: 482
     width: 282
     height: 98
     borderLeft: 0
@@ -587,8 +587,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: moneda-talento-ch
-    x: 619
-    y: 45
+    x: 962
+    y: 4
     width: 36
     height: 36
     borderLeft: 0
@@ -600,8 +600,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: moneda-talentos1
-    x: 1049
-    y: 817
+    x: 1052
+    y: 883
     width: 118
     height: 92
     borderLeft: 0
@@ -613,8 +613,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: moneda-talentos2
-    x: 826
-    y: 594
+    x: 829
+    y: 617
     width: 167
     height: 137
     borderLeft: 0
@@ -626,8 +626,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: moneda-talentos3
-    x: 656
-    y: 559
+    x: 658
+    y: 582
     width: 169
     height: 172
     borderLeft: 0
@@ -639,8 +639,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: next-chapter
-    x: 959
-    y: 15
+    x: 1498
+    y: 915
     width: 60
     height: 60
     borderLeft: 0
@@ -652,8 +652,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: outline-shadow
-    x: 233
-    y: 535
+    x: 234
+    y: 532
     width: 16
     height: 16
     borderLeft: 8
@@ -665,8 +665,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: prev-chapter
-    x: 1049
-    y: 663
+    x: 1436
+    y: 915
     width: 60
     height: 60
     borderLeft: 0
@@ -678,8 +678,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: rpta-acierto
-    x: 255
-    y: 171
+    x: 256
+    y: 257
     width: 392
     height: 88
     borderLeft: 0
@@ -691,8 +691,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: rpta-error
-    x: 255
-    y: 260
+    x: 256
+    y: 167
     width: 392
     height: 88
     borderLeft: 0
@@ -704,8 +704,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: scrollbar-bg
-    x: 901
-    y: 561
+    x: 942
+    y: 482
     width: 32
     height: 32
     borderLeft: 1
@@ -717,8 +717,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: scrollbar-bg-inicio
-    x: 934
-    y: 561
+    x: 931
+    y: 583
     width: 32
     height: 32
     borderLeft: 2
@@ -730,8 +730,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: scrollbar-bg-talentos
-    x: 1001
-    y: 155
+    x: 897
+    y: 583
     width: 32
     height: 32
     borderLeft: 1
@@ -743,8 +743,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: scrollbar-fg
-    x: 656
-    y: 4
+    x: 863
+    y: 583
     width: 32
     height: 32
     borderLeft: 2
@@ -756,8 +756,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: transparente
-    x: 252
-    y: 645
+    x: 241
+    y: 618
     width: 2
     height: 2
     borderLeft: 0
@@ -769,8 +769,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: trivia-btn-1
-    x: 255
-    y: 82
+    x: 256
+    y: 77
     width: 392
     height: 88
     borderLeft: 0
@@ -782,7 +782,7 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: trivia-btn-2
-    x: 1360
+    x: 658
     y: 936
     width: 392
     height: 88
@@ -795,8 +795,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: trivia-btn-3
-    x: 656
-    y: 821
+    x: 658
+    y: 756
     width: 392
     height: 88
     borderLeft: 0
@@ -808,8 +808,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: trivia-btn-4
-    x: 656
-    y: 732
+    x: 658
+    y: 846
     width: 392
     height: 88
     borderLeft: 0
@@ -821,8 +821,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: trivia-btn-ico-pedirayuda
-    x: 857
-    y: 27
+    x: 966
+    y: 418
     width: 66
     height: 62
     borderLeft: 0
@@ -834,8 +834,8 @@ MonoBehaviour:
     paddingTop: 2
     paddingBottom: 2
   - name: white
-    x: 1049
-    y: 602
+    x: 1374
+    y: 915
     width: 60
     height: 60
     borderLeft: 2
@@ -847,8 +847,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: zoom
-    x: 994
-    y: 579
+    x: 998
+    y: 704
     width: 50
     height: 50
     borderLeft: 0
