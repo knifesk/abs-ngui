@@ -42,7 +42,7 @@ MonoBehaviour:
   mSprites:
   - name: 10000-talentos
     x: 0
-    y: 205
+    y: 601
     width: 232
     height: 196
     borderLeft: 0
@@ -55,7 +55,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: 2500-talentos
     x: 0
-    y: 403
+    y: 205
     width: 232
     height: 196
     borderLeft: 0
@@ -68,7 +68,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: 500-talentos
     x: 0
-    y: 601
+    y: 403
     width: 232
     height: 196
     borderLeft: 0
@@ -210,8 +210,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: bg-nombre-coleccion
-    x: 747
-    y: 462
+    x: 854
+    y: 95
     width: 60
     height: 60
     borderLeft: 19
@@ -249,8 +249,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: bg-progreso-foreground
-    x: 922
-    y: 462
+    x: 854
+    y: 157
     width: 60
     height: 60
     borderLeft: 0
@@ -328,7 +328,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: boton-inicio-azul-sombra
     x: 796
-    y: 878
+    y: 952
     width: 363
     height: 72
     borderLeft: 0
@@ -341,7 +341,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: boton-inicio-verde-sombra
     x: 796
-    y: 952
+    y: 878
     width: 363
     height: 72
     borderLeft: 0
@@ -496,8 +496,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-desafio-aceptar
-    x: 854
-    y: 157
+    x: 949
+    y: 575
     width: 60
     height: 60
     borderLeft: 0
@@ -509,8 +509,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-desafio-historico-activo
-    x: 993
-    y: 820
+    x: 628
+    y: 627
     width: 267
     height: 56
     borderLeft: 0
@@ -548,19 +548,6 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-desafio-nuevo-inactivo
-    x: 628
-    y: 627
-    width: 267
-    height: 56
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
-  - name: btn-desafio-pendientes-activo
     x: 813
     y: 714
     width: 267
@@ -573,9 +560,22 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
+  - name: btn-desafio-pendientes-activo
+    x: 993
+    y: 820
+    width: 267
+    height: 56
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
   - name: btn-desafio-rechazar
-    x: 916
-    y: 219
+    x: 922
+    y: 462
     width: 60
     height: 60
     borderLeft: 0
@@ -639,8 +639,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-fontmenu
-    x: 978
-    y: 237
+    x: 916
+    y: 7
     width: 60
     height: 51
     borderLeft: 0
@@ -782,8 +782,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-reader-back
-    x: 916
-    y: 7
+    x: 978
+    y: 237
     width: 60
     height: 51
     borderLeft: 0
@@ -951,45 +951,6 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: loader_01
-    x: 854
-    y: 347
-    width: 64
-    height: 64
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
-  - name: loader_02
-    x: 788
-    y: 17
-    width: 64
-    height: 64
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
-  - name: loader_03
-    x: 854
-    y: 281
-    width: 64
-    height: 64
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
-  - name: loader_04
     x: 856
     y: 458
     width: 64
@@ -1002,7 +963,20 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
-  - name: loader_05
+  - name: loader_02
+    x: 854
+    y: 281
+    width: 64
+    height: 64
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: loader_03
     x: 788
     y: 281
     width: 64
@@ -1015,9 +989,35 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
-  - name: loader_06
+  - name: loader_04
     x: 788
     y: 215
+    width: 64
+    height: 64
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: loader_05
+    x: 788
+    y: 83
+    width: 64
+    height: 64
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: loader_06
+    x: 854
+    y: 347
     width: 64
     height: 64
     borderLeft: 0
@@ -1043,7 +1043,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: loader_08
     x: 788
-    y: 83
+    y: 17
     width: 64
     height: 64
     borderLeft: 0
@@ -1094,8 +1094,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: rpta-acierto
-    x: 0
-    y: 115
+    x: 234
+    y: 619
     width: 392
     height: 88
     borderLeft: 0
@@ -1107,8 +1107,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: rpta-error
-    x: 0
-    y: 25
+    x: 402
+    y: 846
     width: 392
     height: 88
     borderLeft: 0
@@ -1185,8 +1185,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: spr-desafio-lose
-    x: 949
-    y: 575
+    x: 920
+    y: 396
     width: 60
     height: 60
     borderLeft: 0
@@ -1198,7 +1198,7 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: spr-desafio-rej
-    x: 854
+    x: 916
     y: 219
     width: 60
     height: 60
@@ -1211,8 +1211,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: spr-desafio-tie
-    x: 702
-    y: 112
+    x: 854
+    y: 219
     width: 60
     height: 60
     borderLeft: 0
@@ -1224,8 +1224,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: spr-desafio-win
-    x: 920
-    y: 396
+    x: 747
+    y: 462
     width: 60
     height: 60
     borderLeft: 0
@@ -1251,7 +1251,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: trivia-btn-1
     x: 234
-    y: 349
+    y: 439
     width: 392
     height: 88
     borderLeft: 0
@@ -1276,8 +1276,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: trivia-btn-3
-    x: 234
-    y: 619
+    x: 0
+    y: 25
     width: 392
     height: 88
     borderLeft: 0
@@ -1289,8 +1289,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: trivia-btn-4
-    x: 234
-    y: 439
+    x: 0
+    y: 115
     width: 392
     height: 88
     borderLeft: 0
@@ -1303,7 +1303,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: triviaD-btn-1
     x: 402
-    y: 846
+    y: 936
     width: 392
     height: 88
     borderLeft: 0
@@ -1315,8 +1315,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: triviaD-btn-2
-    x: 402
-    y: 936
+    x: 234
+    y: 709
     width: 392
     height: 88
     borderLeft: 0
@@ -1329,7 +1329,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: triviaD-btn-3
     x: 234
-    y: 709
+    y: 349
     width: 392
     height: 88
     borderLeft: 0
@@ -1354,8 +1354,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: white
-    x: 854
-    y: 95
+    x: 702
+    y: 112
     width: 60
     height: 60
     borderLeft: 2
