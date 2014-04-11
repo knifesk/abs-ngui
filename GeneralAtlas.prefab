@@ -42,7 +42,7 @@ MonoBehaviour:
   mSprites:
   - name: 10000-talentos
     x: 0
-    y: 205
+    y: 101
     width: 232
     height: 196
     borderLeft: 0
@@ -54,8 +54,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 2500-talentos
-    x: 0
-    y: 403
+    x: 234
+    y: 299
     width: 232
     height: 196
     borderLeft: 0
@@ -68,7 +68,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: 500-talentos
     x: 0
-    y: 601
+    y: 299
     width: 232
     height: 196
     borderLeft: 0
@@ -80,8 +80,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: AskForHelp
-    x: 394
-    y: 4
+    x: 402
+    y: 961
     width: 368
     height: 63
     borderLeft: 0
@@ -93,8 +93,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: background-abs-Faq
-    x: 1040
-    y: 347
+    x: 1091
+    y: 7
     width: 2
     height: 60
     borderLeft: 1
@@ -106,8 +106,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: backgroundcajafaq
-    x: 1044
-    y: 31
+    x: 1159
+    y: 261
     width: 5
     height: 436
     borderLeft: 1
@@ -119,8 +119,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: backgroundFaq
-    x: 756
-    y: 371
+    x: 1134
+    y: 876
     width: 2
     height: 40
     borderLeft: 0
@@ -132,8 +132,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: background-logoabs-Faq
-    x: 628
-    y: 348
+    x: 696
+    y: 541
     width: 126
     height: 63
     borderLeft: 6
@@ -145,8 +145,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: back-menu
-    x: 764
-    y: 58
+    x: 879
+    y: 394
     width: 22
     height: 353
     borderLeft: 10
@@ -158,8 +158,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: bg-button-coleccion-trivia
-    x: 897
-    y: 637
+    x: 696
+    y: 652
     width: 150
     height: 75
     borderLeft: 50
@@ -171,8 +171,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: bg-button-libro
-    x: 628
-    y: 685
+    x: 402
+    y: 874
     width: 183
     height: 85
     borderLeft: 80
@@ -184,8 +184,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: bg-desafio-row
-    x: 678
-    y: 174
+    x: 936
+    y: 772
     width: 60
     height: 90
     borderLeft: 2
@@ -197,8 +197,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: bg-fontmenu-arrow-down
-    x: 353
-    y: 208
+    x: 1064
+    y: 801
     width: 35
     height: 11
     borderLeft: 0
@@ -210,8 +210,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: bg-nombre-coleccion
-    x: 854
-    y: 33
+    x: 969
+    y: 493
     width: 60
     height: 60
     borderLeft: 19
@@ -223,8 +223,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: bgn-toolbarbottom
-    x: 1029
-    y: 216
+    x: 870
+    y: 677
     width: 5
     height: 70
     borderLeft: 2
@@ -236,8 +236,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: bg-progreso
-    x: 854
-    y: 95
+    x: 1022
+    y: 307
     width: 60
     height: 60
     borderLeft: 0
@@ -249,8 +249,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: bg-progreso-foreground
-    x: 854
-    y: 157
+    x: 1031
+    y: 493
     width: 60
     height: 60
     borderLeft: 0
@@ -262,8 +262,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: Bg-Talentos
-    x: 854
-    y: 281
+    x: 903
+    y: 555
     width: 64
     height: 64
     borderLeft: 4
@@ -275,8 +275,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: bg-toolbar-lector-negro
-    x: 740
-    y: 239
+    x: 1115
+    y: 453
     width: 20
     height: 70
     borderLeft: 2
@@ -288,8 +288,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: bg-toolbar-lector-sepia
-    x: 978
-    y: 179
+    x: 848
+    y: 677
     width: 20
     height: 70
     borderLeft: 3
@@ -301,8 +301,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: bg-toolbar-lector-white
-    x: 1000
-    y: 179
+    x: 1093
+    y: 453
     width: 20
     height: 70
     borderLeft: 2
@@ -314,8 +314,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: boton-inicio-amarillo-sombra
-    x: 796
-    y: 878
+    x: 912
+    y: 185
     width: 363
     height: 72
     borderLeft: 5
@@ -327,8 +327,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: boton-inicio-azul-sombra
-    x: 628
-    y: 772
+    x: 1096
+    y: 111
     width: 363
     height: 72
     borderLeft: 0
@@ -340,8 +340,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: boton-inicio-verde-sombra
-    x: 796
-    y: 952
+    x: 1096
+    y: 37
     width: 363
     height: 72
     borderLeft: 0
@@ -353,8 +353,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: boton-talentos
-    x: 402
-    y: 800
+    x: 696
+    y: 606
     width: 181
     height: 44
     borderLeft: 0
@@ -366,8 +366,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: box-talentos
-    x: 916
-    y: 151
+    x: 696
+    y: 125
     width: 32
     height: 32
     borderLeft: 16
@@ -379,8 +379,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-adquirir
-    x: 628
-    y: 413
+    x: 1033
+    y: 977
     width: 226
     height: 47
     borderLeft: 5
@@ -392,8 +392,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-amarillo
-    x: 993
-    y: 774
+    x: 903
+    y: 621
     width: 116
     height: 44
     borderLeft: 20
@@ -405,8 +405,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-bgcolor-black
-    x: 878
-    y: 850
+    x: 1093
+    y: 391
     width: 39
     height: 26
     borderLeft: 0
@@ -418,8 +418,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-bgcolor-sephia
-    x: 837
-    y: 850
+    x: 371
+    y: 501
     width: 39
     height: 26
     borderLeft: 0
@@ -431,8 +431,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-bgcolor-white
-    x: 796
-    y: 850
+    x: 412
+    y: 501
     width: 39
     height: 26
     borderLeft: 0
@@ -444,8 +444,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-bookmark
-    x: 984
-    y: 522
+    x: 1093
+    y: 525
     width: 60
     height: 51
     borderLeft: 0
@@ -457,8 +457,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-bookmark-add
-    x: 984
-    y: 469
+    x: 1149
+    y: 699
     width: 60
     height: 51
     borderLeft: 0
@@ -470,8 +470,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-chapter-next
-    x: 978
-    y: 343
+    x: 1031
+    y: 387
     width: 60
     height: 51
     borderLeft: 0
@@ -483,8 +483,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-chapter-prev
-    x: 982
-    y: 409
+    x: 1084
+    y: 334
     width: 60
     height: 51
     borderLeft: 0
@@ -496,8 +496,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-desafio-aceptar
-    x: 922
-    y: 462
+    x: 1035
+    y: 578
     width: 60
     height: 60
     borderLeft: 0
@@ -509,8 +509,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-desafio-historico-activo
-    x: 993
-    y: 820
+    x: 402
+    y: 816
     width: 267
     height: 56
     borderLeft: 0
@@ -522,7 +522,7 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-desafio-inactivo
-    x: 1161
+    x: 772
     y: 967
     width: 259
     height: 57
@@ -535,8 +535,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-desafio-nuevo-activo
-    x: 1161
-    y: 909
+    x: 671
+    y: 845
     width: 259
     height: 56
     borderLeft: 0
@@ -548,8 +548,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-desafio-nuevo-inactivo
-    x: 628
-    y: 627
+    x: 587
+    y: 903
     width: 267
     height: 56
     borderLeft: 0
@@ -561,8 +561,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-desafio-pendientes-activo
-    x: 813
-    y: 714
+    x: 788
+    y: 11
     width: 267
     height: 56
     borderLeft: 0
@@ -574,8 +574,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-desafio-rechazar
-    x: 920
-    y: 396
+    x: 969
+    y: 431
     width: 60
     height: 60
     borderLeft: 0
@@ -587,8 +587,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-dropdown
-    x: 678
-    y: 161
+    x: 1048
+    y: 374
     width: 20
     height: 11
     borderLeft: 0
@@ -600,8 +600,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-estrella
-    x: 234
-    y: 210
+    x: 468
+    y: 300
     width: 117
     height: 47
     borderLeft: 0
@@ -613,8 +613,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-flat-round
-    x: 916
-    y: 185
+    x: 730
+    y: 125
     width: 32
     height: 32
     borderLeft: 8
@@ -626,7 +626,7 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-flat-round-azul
-    x: 394
+    x: 788
     y: 69
     width: 306
     height: 88
@@ -639,8 +639,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-fontmenu
-    x: 1011
-    y: 584
+    x: 1084
+    y: 281
     width: 60
     height: 51
     borderLeft: 0
@@ -652,8 +652,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-font-size-bigger
-    x: 813
-    y: 686
+    x: 302
+    y: 501
     width: 67
     height: 26
     borderLeft: 0
@@ -665,8 +665,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-font-size-smaller
-    x: 854
-    y: 5
+    x: 587
+    y: 875
     width: 67
     height: 26
     borderLeft: 0
@@ -678,8 +678,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-lineheight-less
-    x: 715
-    y: 311
+    x: 824
+    y: 569
     width: 47
     height: 35
     borderLeft: 0
@@ -691,8 +691,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-lineheight-more
-    x: 856
-    y: 421
+    x: 1022
+    y: 270
     width: 47
     height: 35
     borderLeft: 0
@@ -703,9 +703,22 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
+  - name: btn-mensaje-ico
+    x: 815
+    y: 749
+    width: 119
+    height: 94
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
   - name: btn-mensaje-numero
-    x: 702
-    y: 73
+    x: 1097
+    y: 578
     width: 58
     height: 37
     borderLeft: 20
@@ -717,8 +730,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-menu
-    x: 628
-    y: 462
+    x: 696
+    y: 729
     width: 117
     height: 114
     borderLeft: 0
@@ -730,8 +743,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-menu-login
-    x: 764
-    y: 12
+    x: 815
+    y: 729
     width: 18
     height: 18
     borderLeft: 0
@@ -743,8 +756,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-menu-logout
-    x: 982
-    y: 289
+    x: 1122
+    y: 732
     width: 18
     height: 18
     borderLeft: 0
@@ -756,8 +769,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-moneda-talentos
-    x: 585
-    y: 806
+    x: 862
+    y: 354
     width: 39
     height: 38
     borderLeft: 0
@@ -769,8 +782,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-puntos
-    x: 628
-    y: 578
+    x: 856
+    y: 918
     width: 293
     height: 47
     borderLeft: 0
@@ -782,8 +795,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-reader-back
-    x: 1049
-    y: 661
+    x: 1097
+    y: 617
     width: 60
     height: 51
     borderLeft: 0
@@ -795,8 +808,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-reader-bg
-    x: 949
-    y: 524
+    x: 1031
+    y: 370
     width: 15
     height: 15
     borderLeft: 7
@@ -808,8 +821,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-search
-    x: 920
-    y: 285
+    x: 1031
+    y: 440
     width: 60
     height: 51
     borderLeft: 0
@@ -821,8 +834,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: btn-talentos
-    x: 747
-    y: 524
+    x: 932
+    y: 864
     width: 200
     height: 52
     borderLeft: 0
@@ -834,8 +847,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: desafio-flecha
-    x: 825
-    y: 498
+    x: 1056
+    y: 706
     width: 26
     height: 24
     borderLeft: 0
@@ -846,9 +859,22 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
+  - name: estrella_grande
+    x: 0
+    y: 497
+    width: 300
+    height: 300
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
   - name: flecha-redondeada
-    x: 825
-    y: 472
+    x: 998
+    y: 772
     width: 24
     height: 24
     borderLeft: 0
@@ -860,8 +886,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: flecha-redondeada2
-    x: 1016
-    y: 288
+    x: 990
+    y: 679
     width: 25
     height: 25
     borderLeft: 0
@@ -873,8 +899,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: flecha-roja-menu
-    x: 715
-    y: 285
+    x: 1024
+    y: 772
     width: 22
     height: 24
     borderLeft: 0
@@ -886,8 +912,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: flecha-titulo
-    x: 1016
-    y: 315
+    x: 1127
+    y: 425
     width: 26
     height: 26
     borderLeft: 0
@@ -912,8 +938,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: ico-btn-compartir
-    x: 978
-    y: 251
+    x: 824
+    y: 535
     width: 49
     height: 32
     borderLeft: 0
@@ -925,8 +951,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: ico-btn-volver
-    x: 764
-    y: 32
+    x: 1134
+    y: 399
     width: 22
     height: 24
     borderLeft: 0
@@ -938,8 +964,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: ico-comparte-lector
-    x: 747
-    y: 474
+    x: 1064
+    y: 814
     width: 76
     height: 48
     borderLeft: 0
@@ -951,8 +977,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: icon-libro-trivia
-    x: 628
-    y: 266
+    x: 903
+    y: 667
     width: 85
     height: 80
     borderLeft: 0
@@ -964,8 +990,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: loader_01
-    x: 856
-    y: 458
+    x: 990
+    y: 706
     width: 64
     height: 64
     borderLeft: 0
@@ -977,8 +1003,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: loader_02
-    x: 854
-    y: 347
+    x: 998
+    y: 798
     width: 64
     height: 64
     borderLeft: 0
@@ -990,8 +1016,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: loader_03
-    x: 788
-    y: 17
+    x: 1021
+    y: 640
     width: 64
     height: 64
     borderLeft: 0
@@ -1003,8 +1029,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: loader_04
-    x: 788
-    y: 149
+    x: 1056
+    y: 732
     width: 64
     height: 64
     borderLeft: 0
@@ -1016,8 +1042,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: loader_05
-    x: 788
-    y: 215
+    x: 903
+    y: 423
     width: 64
     height: 64
     borderLeft: 0
@@ -1029,8 +1055,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: loader_06
-    x: 788
-    y: 347
+    x: 903
+    y: 489
     width: 64
     height: 64
     borderLeft: 0
@@ -1042,8 +1068,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: loader_07
-    x: 788
-    y: 281
+    x: 969
+    y: 555
     width: 64
     height: 64
     borderLeft: 0
@@ -1055,8 +1081,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: loader_08
-    x: 788
-    y: 83
+    x: 903
+    y: 357
     width: 64
     height: 64
     borderLeft: 0
@@ -1068,7 +1094,7 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: logo-abs
-    x: 394
+    x: 628
     y: 159
     width: 282
     height: 98
@@ -1081,8 +1107,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: moneda-talento-ch
-    x: 353
-    y: 221
+    x: 587
+    y: 311
     width: 36
     height: 36
     borderLeft: 0
@@ -1094,8 +1120,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: outline-shadow
-    x: 715
-    y: 267
+    x: 848
+    y: 659
     width: 16
     height: 16
     borderLeft: 8
@@ -1107,8 +1133,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: rpta-acierto
-    x: 234
-    y: 529
+    x: 394
+    y: 29
     width: 392
     height: 88
     borderLeft: 0
@@ -1120,8 +1146,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: rpta-error
-    x: 234
-    y: 619
+    x: 302
+    y: 709
     width: 392
     height: 88
     borderLeft: 0
@@ -1133,8 +1159,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: scrollbar-bg
-    x: 949
-    y: 541
+    x: 1057
+    y: 35
     width: 32
     height: 32
     borderLeft: 1
@@ -1146,8 +1172,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: scrollbar-bg-inicio
-    x: 982
-    y: 309
+    x: 1093
+    y: 419
     width: 32
     height: 32
     borderLeft: 2
@@ -1159,8 +1185,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: scrollbar-bg-talentos
-    x: 916
-    y: 117
+    x: 662
+    y: 125
     width: 32
     height: 32
     borderLeft: 1
@@ -1172,8 +1198,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: scrollbar-fg
-    x: 916
-    y: 83
+    x: 628
+    y: 125
     width: 32
     height: 32
     borderLeft: 2
@@ -1185,8 +1211,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: separador-menu
-    x: 982
-    y: 285
+    x: 1048
+    y: 370
     width: 10
     height: 2
     borderLeft: 1
@@ -1198,8 +1224,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: spr-desafio-lose
-    x: 916
-    y: 219
+    x: 1087
+    y: 670
     width: 60
     height: 60
     borderLeft: 0
@@ -1211,8 +1237,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: spr-desafio-rej
-    x: 920
-    y: 338
+    x: 1151
+    y: 919
     width: 56
     height: 56
     borderLeft: 0
@@ -1224,8 +1250,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: spr-desafio-tie
-    x: 854
-    y: 219
+    x: 1142
+    y: 856
     width: 60
     height: 60
     borderLeft: 0
@@ -1237,8 +1263,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: spr-desafio-win
-    x: 702
-    y: 112
+    x: 1122
+    y: 752
     width: 60
     height: 60
     borderLeft: 0
@@ -1250,8 +1276,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: transparente
-    x: 1040
-    y: 343
+    x: 1127
+    y: 421
     width: 2
     height: 2
     borderLeft: 0
@@ -1264,7 +1290,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: trivia-btn-1
     x: 234
-    y: 349
+    y: 119
     width: 392
     height: 88
     borderLeft: 0
@@ -1276,8 +1302,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: trivia-btn-2
-    x: 234
-    y: 439
+    x: 0
+    y: 11
     width: 392
     height: 88
     borderLeft: 0
@@ -1289,8 +1315,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: trivia-btn-3
-    x: 402
-    y: 846
+    x: 234
+    y: 209
     width: 392
     height: 88
     borderLeft: 0
@@ -1302,59 +1328,7 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: trivia-btn-4
-    x: 0
-    y: 25
-    width: 392
-    height: 88
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
-  - name: triviaD-btn-1
-    x: 0
-    y: 115
-    width: 392
-    height: 88
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
-  - name: triviaD-btn-2
-    x: 234
-    y: 709
-    width: 392
-    height: 88
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
-  - name: triviaD-btn-3
-    x: 402
-    y: 936
-    width: 392
-    height: 88
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
-  - name: triviaD-btn-4
-    x: 234
+    x: 628
     y: 259
     width: 392
     height: 88
@@ -1366,9 +1340,61 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
+  - name: triviaD-btn-1
+    x: 468
+    y: 349
+    width: 392
+    height: 88
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: triviaD-btn-2
+    x: 302
+    y: 619
+    width: 392
+    height: 88
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: triviaD-btn-3
+    x: 302
+    y: 529
+    width: 392
+    height: 88
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: triviaD-btn-4
+    x: 468
+    y: 439
+    width: 392
+    height: 88
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
   - name: white
-    x: 949
-    y: 575
+    x: 969
+    y: 369
     width: 60
     height: 60
     borderLeft: 2
