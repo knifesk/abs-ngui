@@ -41,7 +41,7 @@ MonoBehaviour:
   material: {fileID: 0}
   mSprites: []
   mPixelSize: 1
-  mReplacement: {fileID: 11400000, guid: a41d1915882854fb4bf3e0a12456ef27, type: 2}
+  mReplacement: {fileID: 11400000, guid: c67e48713d5b64947b95ebe35652589a, type: 2}
   mCoordinates: 0
   sprites: []
 --- !u!1001 &100100000
