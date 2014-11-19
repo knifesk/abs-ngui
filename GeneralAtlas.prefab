@@ -38,10 +38,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  material: {fileID: 0}
+  material: {fileID: 2100000, guid: df340ecb532b84f57bbd09ab35173930, type: 2}
   mSprites: []
   mPixelSize: 1
-  mReplacement: {fileID: 0}
+  mReplacement: {fileID: 11400000, guid: a41d1915882854fb4bf3e0a12456ef27, type: 2}
   mCoordinates: 0
   sprites: []
 --- !u!1001 &100100000
